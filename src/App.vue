@@ -1,14 +1,12 @@
-
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import HelloWorld from './components/HelloWorld.vue';
 </script>
 
 <template>
   <div>
-    <h1>Welcome to sophies-choice</h1>
+    <h1>Welcome to sophies-choice hello branch</h1>
     <HelloWorld msg="You did it!" />
   </div>
 </template>
 
-<style scoped>
-</style>
+<style scoped></style>
